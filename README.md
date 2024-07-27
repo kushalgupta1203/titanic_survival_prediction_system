@@ -3,11 +3,6 @@
 
 The aim of this project is to build a model that predicts whether a passenger on the Titanic survived or not based on given features.
 
-## Author
-
-- [@kushal-gupta-sys](https://github.com/kushal-gupta-sys)
-
-
 
 ## Dataset
 
